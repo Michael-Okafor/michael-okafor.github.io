@@ -1,0 +1,28 @@
+Which products generate the most revenue?,,,,Which products have high sales volume but low revenue?,,
+Product Category,Sum of Net Revenue ($),,,Product Category,Sum of Net Revenue ($),Sum of Quantity
+Beauty,522.23,,,Clothing,450.68,10
+Clothing,450.68,,,Sports,520.19,3
+Electronics,723.07,,,Beauty,522.23,8
+Home & Kitchen,1334.3,,,Electronics,723.07,4
+Sports,520.19,,,Home & Kitchen,1334.3,9
+Grand Total,3550.47,,,Grand Total,3550.47,34
+,,,,,,
+,,,,,,
+,,,,,,
+Which region performs best?,,,,,,
+Region,Sum of Net Revenue ($),,,Which products have high sales volume but low revenue?,,
+East,216.35,,,Discount (%),Sum of Net Revenue ($),Sum of Gross Revenue ($)
+North,1638.67,,,0%,2430.31,2430.31
+South,665.21,,,5%,457.85,481.94
+West,1030.24,,,15%,284.47,334.67
+Grand Total,3550.47,,,20%,377.84,472.3
+,,,,Grand Total,3550.47,3719.22
+,,,,,,
+,,,,,,
+,,,,,,
+What months have the highest sales?,,,,,,
+Month,Sum of Net Revenue ($),,,,,
+March,1354.18,,,,,
+February,1146.76,,,,,
+January,1049.53,,,,,
+Grand Total,3550.47,,,,,
